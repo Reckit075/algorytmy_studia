@@ -1,0 +1,14 @@
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab-1.exe
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab-1.deps.json
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab-1.runtimeconfig.json
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab-1.runtimeconfig.dev.json
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab-1.dll
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\lab-1.pdb
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab-1.csproj.AssemblyReference.cache
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab-1.AssemblyInfoInputs.cache
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab-1.AssemblyInfo.cs
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab-1.csproj.CoreCompileInputs.cache
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab-1.dll
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab-1.pdb
+D:\Nowy folder\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\lab-1.genruntimeconfig.cache
