@@ -1,0 +1,16 @@
+D:\Nowy folder\ConsoleApp1\lab-3\bin\Debug\net5.0\lab-3.exe
+D:\Nowy folder\ConsoleApp1\lab-3\bin\Debug\net5.0\lab-3.deps.json
+D:\Nowy folder\ConsoleApp1\lab-3\bin\Debug\net5.0\lab-3.runtimeconfig.json
+D:\Nowy folder\ConsoleApp1\lab-3\bin\Debug\net5.0\lab-3.runtimeconfig.dev.json
+D:\Nowy folder\ConsoleApp1\lab-3\bin\Debug\net5.0\lab-3.dll
+D:\Nowy folder\ConsoleApp1\lab-3\bin\Debug\net5.0\ref\lab-3.dll
+D:\Nowy folder\ConsoleApp1\lab-3\bin\Debug\net5.0\lab-3.pdb
+D:\Nowy folder\ConsoleApp1\lab-3\obj\Debug\net5.0\lab-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nowy folder\ConsoleApp1\lab-3\obj\Debug\net5.0\lab-3.AssemblyInfoInputs.cache
+D:\Nowy folder\ConsoleApp1\lab-3\obj\Debug\net5.0\lab-3.AssemblyInfo.cs
+D:\Nowy folder\ConsoleApp1\lab-3\obj\Debug\net5.0\lab-3.csproj.CoreCompileInputs.cache
+D:\Nowy folder\ConsoleApp1\lab-3\obj\Debug\net5.0\lab-3.dll
+D:\Nowy folder\ConsoleApp1\lab-3\obj\Debug\net5.0\ref\lab-3.dll
+D:\Nowy folder\ConsoleApp1\lab-3\obj\Debug\net5.0\lab-3.pdb
+D:\Nowy folder\ConsoleApp1\lab-3\obj\Debug\net5.0\lab-3.genruntimeconfig.cache
+D:\Nowy folder\ConsoleApp1\lab-3\obj\Debug\net5.0\lab-3.csproj.AssemblyReference.cache
