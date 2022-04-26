@@ -1,0 +1,16 @@
+D:\Nowy folder\ConsoleApp1\lab-8\bin\Debug\net5.0\lab-8.exe
+D:\Nowy folder\ConsoleApp1\lab-8\bin\Debug\net5.0\lab-8.deps.json
+D:\Nowy folder\ConsoleApp1\lab-8\bin\Debug\net5.0\lab-8.runtimeconfig.json
+D:\Nowy folder\ConsoleApp1\lab-8\bin\Debug\net5.0\lab-8.runtimeconfig.dev.json
+D:\Nowy folder\ConsoleApp1\lab-8\bin\Debug\net5.0\lab-8.dll
+D:\Nowy folder\ConsoleApp1\lab-8\bin\Debug\net5.0\ref\lab-8.dll
+D:\Nowy folder\ConsoleApp1\lab-8\bin\Debug\net5.0\lab-8.pdb
+D:\Nowy folder\ConsoleApp1\lab-8\obj\Debug\net5.0\lab-8.csproj.AssemblyReference.cache
+D:\Nowy folder\ConsoleApp1\lab-8\obj\Debug\net5.0\lab-8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nowy folder\ConsoleApp1\lab-8\obj\Debug\net5.0\lab-8.AssemblyInfoInputs.cache
+D:\Nowy folder\ConsoleApp1\lab-8\obj\Debug\net5.0\lab-8.AssemblyInfo.cs
+D:\Nowy folder\ConsoleApp1\lab-8\obj\Debug\net5.0\lab-8.csproj.CoreCompileInputs.cache
+D:\Nowy folder\ConsoleApp1\lab-8\obj\Debug\net5.0\lab-8.dll
+D:\Nowy folder\ConsoleApp1\lab-8\obj\Debug\net5.0\ref\lab-8.dll
+D:\Nowy folder\ConsoleApp1\lab-8\obj\Debug\net5.0\lab-8.pdb
+D:\Nowy folder\ConsoleApp1\lab-8\obj\Debug\net5.0\lab-8.genruntimeconfig.cache
