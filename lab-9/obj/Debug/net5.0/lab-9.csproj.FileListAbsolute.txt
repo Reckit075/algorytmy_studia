@@ -1,0 +1,15 @@
+D:\Nowy folder\ConsoleApp1\lab-9\bin\Debug\net5.0\lab-9.exe
+D:\Nowy folder\ConsoleApp1\lab-9\bin\Debug\net5.0\lab-9.deps.json
+D:\Nowy folder\ConsoleApp1\lab-9\bin\Debug\net5.0\lab-9.runtimeconfig.json
+D:\Nowy folder\ConsoleApp1\lab-9\bin\Debug\net5.0\lab-9.runtimeconfig.dev.json
+D:\Nowy folder\ConsoleApp1\lab-9\bin\Debug\net5.0\lab-9.dll
+D:\Nowy folder\ConsoleApp1\lab-9\bin\Debug\net5.0\ref\lab-9.dll
+D:\Nowy folder\ConsoleApp1\lab-9\bin\Debug\net5.0\lab-9.pdb
+D:\Nowy folder\ConsoleApp1\lab-9\obj\Debug\net5.0\lab-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nowy folder\ConsoleApp1\lab-9\obj\Debug\net5.0\lab-9.AssemblyInfoInputs.cache
+D:\Nowy folder\ConsoleApp1\lab-9\obj\Debug\net5.0\lab-9.AssemblyInfo.cs
+D:\Nowy folder\ConsoleApp1\lab-9\obj\Debug\net5.0\lab-9.csproj.CoreCompileInputs.cache
+D:\Nowy folder\ConsoleApp1\lab-9\obj\Debug\net5.0\lab-9.dll
+D:\Nowy folder\ConsoleApp1\lab-9\obj\Debug\net5.0\ref\lab-9.dll
+D:\Nowy folder\ConsoleApp1\lab-9\obj\Debug\net5.0\lab-9.pdb
+D:\Nowy folder\ConsoleApp1\lab-9\obj\Debug\net5.0\lab-9.genruntimeconfig.cache
